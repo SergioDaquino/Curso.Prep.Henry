@@ -1,0 +1,38 @@
+html{
+    background-image: url(https://www.avalontravelbooks.com/wp-content/uploads/2019/01/NoCa_BigSurBixby_LunamarinaDreamstime.jpg?fit=1024%2C731);
+    background-position: center center;
+}
+h1{
+    color: blue;
+}
+img {
+    max-width: 400px;
+}
+#thirdDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-height: 600px;
+    max-width: 500px;
+    background-color: orange;
+    padding: 50px;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    padding: 50px;
+    border: solid magenta 1px;
+}
+.divClass{
+    text-align: center;
+    margin-bottom: 50px;
+}
+ul{
+    list-style: none;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
